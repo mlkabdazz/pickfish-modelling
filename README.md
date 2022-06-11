@@ -80,8 +80,8 @@ Weight result from each model (Wait till my journal release)\
 <a href="https://github.com/mlkabdazz/pickfish-modelling/tree/main/model/model_6">Model Number 6</a>
 
 ### Selected model
-From the six models has been trained, two models were selected to be implemented in mobile applications. YOLOv4 (Model No. 1) dan YOLOv4-Tiny (Model No. 5)
-YOLOv4 Model : wait till my journal release. Sorry.
+From the six models has been trained, two models were selected to be implemented in mobile applications. YOLOv4 (Model No. 1) dan YOLOv4-Tiny (Model No. 5)\
+YOLOv4 Model : wait till my journal release. Sorry.\
 YOLOv4-Tiny Model : wait till my journal release. Sorry.
 
 ## My Publications (ON REVIEW)
